@@ -1,0 +1,35 @@
+#map {
+  height: 40%;
+}
+
+.title-text{
+  background-color: rgb(196,0,0);
+  color: white;
+  font-family: 'VT323', monospace;
+  font-size: 400%;
+}
+
+.credits{
+  font-family: 'Roboto', sans-serif;
+  font-size: 10%;
+}
+
+.data{
+  padding-top: 6%;
+}
+
+#place{
+  font-family: 'Abril Fatface', cursive;
+}
+
+.jumbotron{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
